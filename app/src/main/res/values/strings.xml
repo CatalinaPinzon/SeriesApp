@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Segundo Taller - Primer Corte</string>
+    <string name="txt_user">Usuario</string>
+    <string name="txt_pwd">Contraseña</string>
+    <string name="txt_btn">Ingresar</string>
+    <string name="user">Catalina</string>
+    <string name="pwd">UNAB1952</string>
+    <string name="txt_cast">Cast</string>
+
+</resources>
